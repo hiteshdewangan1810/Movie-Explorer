@@ -64,10 +64,9 @@ npm run build
 npm run preview
 
 
-
-
-
-<img width="1864" height="923" alt="Screenshot 2025-11-12 161050" src="https://github.com/user-attachments/assets/3835607f-26bc-40ec-accd-2ffdbee3abf4" />
-<img width="1858" height="920" alt="Screenshot 2025-11-12 161022" src="https://github.com/user-attachments/assets/ec653515-444a-4a07-bee5-314be94fc19d" />
+Deployment: https://movie-explorer-sigma-ten.vercel.app/
 <img width="1913" height="914" alt="Screenshot 2025-11-12 160950" src="https://github.com/user-attachments/assets/b9624d0e-e0de-42aa-84ee-41118df32cbb" />
+<img width="1858" height="920" alt="Screenshot 2025-11-12 161022" src="https://github.com/user-attachments/assets/ec653515-444a-4a07-bee5-314be94fc19d" />
+<img width="1864" height="923" alt="Screenshot 2025-11-12 161050" src="https://github.com/user-attachments/assets/3835607f-26bc-40ec-accd-2ffdbee3abf4" />
+
 
