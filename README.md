@@ -65,7 +65,6 @@ A modern, responsive React application for discovering and exploring movies usin
  OMDb API Key
 
 - Step 1: Clone the Repository
-  
  bash
  git clone https://github.com/yourusername/movie-explorer.git
  cd movie-explorer
@@ -100,7 +99,7 @@ npm run preview
 
 Live Demo: https://movie-explorer-sigma-ten.vercel.app/
 
-# Screenshort
+# 📱 Screenshort
 
 # Home Page
 
