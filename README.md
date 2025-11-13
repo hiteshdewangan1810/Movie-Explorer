@@ -2,9 +2,19 @@
 A modern, responsive React application for discovering and exploring movies using the OMDb API. Search for your favorite movies, view detailed information, and manage your personal favorites collection.
 
 ✨ Features
-🔍 Advanced Search - Search movies by title, actor, or director
+🔍 Advanced Search
+Search movies by title, actor, or director
+Real-time search suggestions
 
-🎯 Movie Details - Comprehensive movie information with posters
+
+🎯 Movie Details
+Comprehensive movie information with posters
+
+Cast and crew details
+
+Ratings from multiple sources
+
+Plot summaries and trailers
 
 ❤️ Favorites System - Add/remove movies to personal favorites
 
