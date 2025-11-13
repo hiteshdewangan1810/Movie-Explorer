@@ -64,26 +64,26 @@ A modern, responsive React application for discovering and exploring movies usin
  npm or yarn
  OMDb API Key
 
-- Step 1: Clone the Repository
+# Step 1: Clone the Repository
  bash
  git clone https://github.com/yourusername/movie-explorer.git
  cd movie-explorer
  
-- Step 2: Install Dependencies
+# Step 2: Install Dependencies
  bash
  npm install
 
-- Step 3: Environment Setup
+# Step 3: Environment Setup
  Create a .env file in the root directory:
  env
  VITE_OMDB_API_KEY=your_omdb_api_key_here
 
-- Step 4: Get OMDb API Key
+# Step 4: Get OMDb API Key
   Visit OMDb API
   Sign up for a free API key
   Replace your_omdb_api_key_here with your actual API key
 
-- Step 5: Run the Application
+# Step 5: Run the Application
   bash
   
 # Development server
