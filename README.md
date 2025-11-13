@@ -1,95 +1,92 @@
-🎬 Movie Explorer
+# 🎬 Movie Explorer
+
 A modern, responsive React application for discovering and exploring movies using the OMDb API. Search for your favorite movies, view detailed information, and manage your personal favorites collection.
 
 
-✨ Features
+# ✨ Features
 
-🔍 Advanced Search
-Search movies by title, actor, or director
-Real-time search suggestions
-Advanced filtering options
+# 🔍 Advanced Search
+ - Search movies by title, actor, or director
+ - Real-time search suggestions
+ - Advanced filtering options
 
-🎯 Movie Details
-Comprehensive movie information with posters
+# 🎯 Movie Details
 
-Cast and crew details
+- Comprehensive movie information with posters
+- Cast and crew details
+- Ratings from multiple sources
+- Plot summaries and trailers
 
-Ratings from multiple sources
+# ❤️ Favorites System
 
-Plot summaries and trailers
+- Add/remove movies to personal favorites
+- Organized favorites collection
+- Quick access to saved movies
 
-❤️ Favorites System
-Add/remove movies to personal favorites
+# 💾 Local Storage
 
-Organized favorites collection
+- Favorites persist between sessions
+- Secure browser-based storage
+- Automatic data synchronization
 
-Quick access to saved movies
+# 📱 Responsive Design
 
-💾 Local Storage
-Favorites persist between sessions
+- Works perfectly on all devices
+- Mobile-first approach
+- Cross-browser compatibility
 
-Secure browser-based storage
+# ⚡ Fast Performance
 
-Automatic data synchronization
+- Built with React and Vite
+- Optimized bundle size
+- Lazy loading implementation
 
-📱 Responsive Design
-Works perfectly on all devices
+# 🎨 Modern UI
 
-Mobile-first approach
+- Beautiful glass-morphism design
+- Smooth animations and transitions
+- Dark theme support
 
-Cross-browser compatibility
+# 🛠️ Tech Stack'
 
-⚡ Fast Performance
-Built with React and Vite
+- Technology	Purpose
+- React 18	Frontend Framework
+- React Router DOM	Client-side Routing
+- Vite	Build Tool & Dev Server
+- CSS3	Styling with Glass Morphism
+- OMDb API	Movie Data Source
+- LocalStorage	Client-side Data Persistence
+  
+# 📦 Installation
 
-Optimized bundle size
+- Prerequisites
+ Node.js (version 14 or higher)
+ npm or yarn
+ OMDb API Key
 
-Lazy loading implementation
+- Step 1: Clone the Repository
+  
+ bash
+ git clone https://github.com/yourusername/movie-explorer.git
+ cd movie-explorer
+ 
+- Step 2: Install Dependencies
+ bash
+ npm install
 
-🎨 Modern UI
-Beautiful glass-morphism design
+- Step 3: Environment Setup
+ Create a .env file in the root directory:
+ env
+ VITE_OMDB_API_KEY=your_omdb_api_key_here
 
-Smooth animations and transitions
+- Step 4: Get OMDb API Key
+  Visit OMDb API
+  Sign up for a free API key
+  Replace your_omdb_api_key_here with your actual API key
 
-Dark/Light theme support
-
-🛠️ Tech Stack
-Technology	Purpose
-React 18	Frontend Framework
-React Router DOM	Client-side Routing
-Vite	Build Tool & Dev Server
-CSS3	Styling with Glass Morphism
-OMDb API	Movie Data Source
-LocalStorage	Client-side Data Persistence
-📦 Installation
-Prerequisites
-Node.js (version 14 or higher)
-
-npm or yarn
-
-OMDb API Key
-
-Step 1: Clone the Repository
-bash
-git clone https://github.com/yourusername/movie-explorer.git
-cd movie-explorer
-Step 2: Install Dependencies
-bash
-npm install
-Step 3: Environment Setup
-Create a .env file in the root directory:
-
-env
-VITE_OMDB_API_KEY=your_omdb_api_key_here
-Step 4: Get OMDb API Key
-Visit OMDb API
-
-Sign up for a free API key
-
-Replace your_omdb_api_key_here with your actual API key
-
-Step 5: Run the Application
-bash
+- Step 5: Run the Application
+  bash
+  
 # Development server
 npm run dev
 
@@ -98,15 +95,26 @@ npm run build
 
 # Preview production build
 npm run preview
-🚀 Deployment
+
+# 🚀 Deployment
+
 Live Demo: https://movie-explorer-sigma-ten.vercel.app/
 
-Deployment 
+# Screenshort
 
-<img width="1913" height="914" alt="Screenshot 2025-11-12 160950" src="https://github.com/user-attachments/assets/b9624d0e-e0de-42aa-84ee-41118df32cbb" />
+# Home Page
 
-<img width="1858" height="920" alt="Screenshot 2025-11-12 161022" src="https://github.com/user-attachments/assets/ec653515-444a-4a07-bee5-314be94fc19d" />
+<img width="1913" height="914" alt="Screenshot 2025-11-12 160950" src="https://github.com/user-attachments/assets/bd35bd9b-d526-4762-aba2-b04acc72faa3" />
 
-<img width="1864" height="923" alt="Screenshot 2025-11-12 161050" src="https://github.com/user-attachments/assets/3835607f-26bc-40ec-accd-2ffdbee3abf4" />
+# Search Results
 
+<img width="1858" height="920" alt="Screenshot 2025-11-12 161022" src="https://github.com/user-attachments/assets/62a52e23-3bc7-472d-9458-7510c171193e" />
+
+# Movie Details
+
+<img width="874" height="870" alt="Screenshot 2025-11-13 132119" src="https://github.com/user-attachments/assets/65ca320f-2a8d-4ec1-b43c-6572f5fd2a22" />
+
+# Favorites Page
+
+<img width="1864" height="923" alt="Screenshot 2025-11-12 161050" src="https://github.com/user-attachments/assets/8b8695bf-1404-4054-a09c-b5bf6f55fc15" />
 
